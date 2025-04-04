@@ -74,7 +74,7 @@ By the end of this Implementation, you will have a fully functional Kubernetes c
 
 
 
-# -------------------------  Implementation Steps -------------------------
+# ------------------  Implementation Steps ------------------
 
 
 <br>
