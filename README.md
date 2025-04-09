@@ -8,8 +8,6 @@
 <br>
 
 
-
-
 ---
 
 ## Kubernetes Quickstart Cluster Implementation for Rocky Linux
